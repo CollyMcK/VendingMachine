@@ -1,0 +1,6 @@
+C:\Users\colin.mckenna\Desktop\CMcK_Vending_Machine\CMcK_Vending_Machine\CMcK_Vending_Machine\bin\Debug\CMcK_Vending_Machine.exe.config
+C:\Users\colin.mckenna\Desktop\CMcK_Vending_Machine\CMcK_Vending_Machine\CMcK_Vending_Machine\obj\Debug\CMcK_Vending_Machine.csprojResolveAssemblyReference.cache
+C:\Users\colin.mckenna\Desktop\CMcK_Vending_Machine\CMcK_Vending_Machine\CMcK_Vending_Machine\bin\Debug\CMcK_Vending_Machine.exe
+C:\Users\colin.mckenna\Desktop\CMcK_Vending_Machine\CMcK_Vending_Machine\CMcK_Vending_Machine\bin\Debug\CMcK_Vending_Machine.pdb
+C:\Users\colin.mckenna\Desktop\CMcK_Vending_Machine\CMcK_Vending_Machine\CMcK_Vending_Machine\obj\Debug\CMcK_Vending_Machine.exe
+C:\Users\colin.mckenna\Desktop\CMcK_Vending_Machine\CMcK_Vending_Machine\CMcK_Vending_Machine\obj\Debug\CMcK_Vending_Machine.pdb
