@@ -1,6 +1,6 @@
 # VendingMachine
 
-My implementation of Vending Machine.
+My implementation of Vending Machine as a .NET Console App (State Machine and Geedy Algorithm).
 
 To run - double click the .exe from the Bin\Debug folder.  Note to allow the solution to be emailed there are two .exe files that are renamed to have .test on the end - please remove this and set it back to .exe
 
